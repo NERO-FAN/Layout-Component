@@ -1,0 +1,11 @@
+.sidebar-container {
+    width: 6.5%;
+    height: 100%;
+    border-radius: 0 1em 1em 0;
+    background-color: #242424;
+    transition: width 0.3s ease;
+}
+
+.sidebar-container:hover {
+    width: 15%;
+}

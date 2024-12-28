@@ -1,0 +1,24 @@
+.navbar-container {
+    width: 100%;
+    height: 12.5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 1em 0 0 1em;
+    background-color: #242424;
+}
+
+.navbar-buttons {
+    width: 25%;
+    display: flex;
+    align-content: center;
+    gap: 10%;
+    justify-content: center;
+}
+
+.page-title {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+}
